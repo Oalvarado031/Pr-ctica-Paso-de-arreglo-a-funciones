@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\ejercicio2uiaS95\obj\Debug\ejercicio2uiaS95.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ejercicio2uiaS95\obj\Debug\ejercicio2uiaS95.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ejercicio2uiaS95\bin\Debug\ejercicio2uiaS95.exe.config
+C:\Users\Dell\source\repos\ejercicio2uiaS95\bin\Debug\ejercicio2uiaS95.exe
+C:\Users\Dell\source\repos\ejercicio2uiaS95\bin\Debug\ejercicio2uiaS95.pdb
+C:\Users\Dell\source\repos\ejercicio2uiaS95\obj\Debug\ejercicio2uiaS95.exe
+C:\Users\Dell\source\repos\ejercicio2uiaS95\obj\Debug\ejercicio2uiaS95.pdb
