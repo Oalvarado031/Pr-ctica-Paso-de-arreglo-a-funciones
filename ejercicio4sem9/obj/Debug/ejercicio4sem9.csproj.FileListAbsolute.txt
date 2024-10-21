@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\ejercicio4sem9\bin\Debug\ejercicio4sem9.exe.config
+C:\Users\Dell\source\repos\ejercicio4sem9\bin\Debug\ejercicio4sem9.exe
+C:\Users\Dell\source\repos\ejercicio4sem9\bin\Debug\ejercicio4sem9.pdb
+C:\Users\Dell\source\repos\ejercicio4sem9\obj\Debug\ejercicio4sem9.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ejercicio4sem9\obj\Debug\ejercicio4sem9.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ejercicio4sem9\obj\Debug\ejercicio4sem9.exe
+C:\Users\Dell\source\repos\ejercicio4sem9\obj\Debug\ejercicio4sem9.pdb
